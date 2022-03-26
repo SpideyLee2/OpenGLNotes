@@ -5,6 +5,8 @@ These notes are derivative of the material from [**this incredible online OpenGL
 
 If you are viewing these notes, I would ___HIGHLY___ recommend (if possible) that you install [**OneNote**](https://www.onenote.com/download) and view the OneNote notes. The PDF notes contain all of the same content, but navigating and viewing the OneNote notes is much easier (as I explain below). The PDF notes also have a white background, but I wrote the notes on a dark-gray background; therefore, so some of the color-coated text might be slightly more difficult to read.
 
+If you wish to see my personal implementations using these notes, they are in [this separate repository](https://github.com/SpideyLee2/OpenGLKnowledgeTest). The code is slightly different from my notes here, but it accomplishes the same tasks.
+
 ## Notes Structure
 I wrote these notes in a fashion that heavily encourages trying to implement the high level concepts _on your own_. This is accomplished by completely separating the code from the concepts by putting the code in subpages. These subpages are linked after every proposal to the viewer to implement the previously discussed concept(s). _This is why using OneNote is strongly recommended._
 
