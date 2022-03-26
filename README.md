@@ -1,7 +1,7 @@
 # My OpenGL Notes
 This is a collection of my extensive OpenGL 3.3 notes for C++.
 
-These notes are derivative of the material from [**this incredible online OpenGL resource**](learnopengl.com), written by Joey de Vries.
+These notes are derivative of the material from [**this incredible online OpenGL resource**](https://learnopengl.com), written by Joey de Vries.
 
 If you are viewing these notes, I would ___HIGHLY___ recommend (if possible) that you install [**OneNote**](https://www.onenote.com/download) and view the OneNote notes. The PDF notes contain all of the same content, but navigating and viewing the OneNote notes is much easier (as I explain below). The PDF notes also have a white background, but I wrote the notes on a dark-gray background; therefore, so some of the color-coated text might be slightly more difficult to read.
 
