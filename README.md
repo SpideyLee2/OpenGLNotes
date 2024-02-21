@@ -28,7 +28,7 @@ Read through the high-level notes _as necessary_, since a lot of the concepts ar
 Why are you reading **_MY_** notes? These are basic concepts of OpenGL.
 
 # About Updates
-I am actively studying and constructing these notes, so they will be added as I complete them.
+No more updates :(
 
 # Issues
 If you see something wrong with my notes, **_PLEASE_** make an issue. As well, if you see some part of the concepts/code that can be improved, make a pull request and I'll consider accepting it. These notes are as much for myself as they are for anybody else. If I messed something up, I would be very thankful to be informed about it. 
